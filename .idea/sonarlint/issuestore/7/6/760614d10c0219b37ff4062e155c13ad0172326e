@@ -1,0 +1,20 @@
+
+Dsquid:S1604"(Make this anonymous inner class a lambda(ËÖ—şÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÍ«øÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1197	"8Move the array designator from the variable to the type.(‘–µ¥
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÍ«øÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(‰ŞÜ—ÿÿÿÿÿ
+N
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Á¼Æd
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(şÙí
+Ysquid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš
+?squid:S11257"(Remove the literal "true" boolean value.(Å·‚
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(şÙí
+Xsquid:UselessImportCheck"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
+@squid:S1125D")Remove the literal "false" boolean value.(®”Õ÷

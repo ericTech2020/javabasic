@@ -1,0 +1,29 @@
+
+?squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Qsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(«€ˆ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(´ªè¤úÿÿÿÿ
+?squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+?squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»àÂÌşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ã£øÿÿÿÿ
+T
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ÑÉ‘Œıÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(éä¾Ï
+Zsquid:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê×²…ùÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÆ­¹şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(’öØà
+_squid:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ
+]squid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
